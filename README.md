@@ -46,8 +46,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
