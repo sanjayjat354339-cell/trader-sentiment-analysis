@@ -17,6 +17,17 @@ To understand how market sentiment affects:
 5. Trade Frequency Analysis
 6. Risk Analysis
 
+## Sample Output
+
+### PnL by Market Sentiment
+![PnL Chart](pnl_chart.png)
+
+### Trade Frequency
+![Trades](trades_chart.png)
+
+### Trade Size (Risk)
+![Risk](risk_chart.png)
+
 ## Key Insights
 - Traders earn highest profits during Extreme Greed conditions.
 - Trading activity increases significantly during Extreme Fear periods.
