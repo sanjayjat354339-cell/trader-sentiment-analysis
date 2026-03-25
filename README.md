@@ -31,14 +31,14 @@ To understand how market sentiment affects:
 - Focus on risk management instead of reacting emotionally to market movements.
 
 ## Dataset
-Dataset is included in compressed format due to GitHub file size limitations.
+
+- `fear_greed_index.csv` is included directly in the repository.
+- `historical_data.csv` is provided as a compressed file (`historical_data.zip`) due to GitHub size limitations.
 
 Steps to use:
-1. Extract the zip file
-2. Place the extracted files inside a `data/` folder
-3. Ensure it contains:
-   - fear_greed_index.csv
-   - historical_data.csv
+1. Extract `historical_data.zip`
+2. Place the extracted `historical_data.csv` inside a `data/` folder
+3. Ensure both files are available before running the notebook
 
 ## How to Run
 ```bash
